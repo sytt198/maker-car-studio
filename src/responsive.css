@@ -1,0 +1,2 @@
+.bom-table{min-width:850px}.bom-table th:nth-child(2),.bom-table td:nth-child(2){white-space:nowrap}
+@media(max-width:620px){.sidebar nav{width:100%;gap:0}.nav-item{flex:1;min-width:0;justify-content:center;padding:12px 4px;font-size:9px;gap:3px}.nav-item svg{width:13px}.bom-table{min-width:850px}.bom-table td:first-child{min-width:250px}}
